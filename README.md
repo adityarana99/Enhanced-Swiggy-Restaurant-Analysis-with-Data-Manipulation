@@ -13,13 +13,6 @@ swiggy_analysis_project/
 └── main.py
 ```
 
-**Documentation: README.md**
-
-Create a `README.md` file in the project root directory to provide an overview of your project, instructions for setup, and explanations of how to use it.
-
-```markdown
-# Enhanced Swiggy Restaurant Analysis
-
 This project demonstrates data analysis and manipulation using Pandas and NumPy to analyze Swiggy restaurant data.
 
 ## Project Overview
